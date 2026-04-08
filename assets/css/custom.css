@@ -1,0 +1,149 @@
+.custom-share-footer {
+  background: #2f5b9f;
+  color: #fff;
+  text-align: center;
+  padding: 42px 20px 36px;
+  margin-top: 40px;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+.custom-share-footer h2 {
+  margin: 0 0 20px 0;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.custom-share-footer p {
+  margin: 0 0 20px 0;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.custom-share-footer .share-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.custom-share-footer .share-icons a {
+  width: 38px;
+  height: 38px;
+  color: #fff;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.custom-share-footer .share-icons svg {
+  width: 42px;
+  height: 42px;
+  display: block;
+}
+
+.custom-share-footer .share-icon-link[aria-label="GitHub"] svg {
+  width: 34px;
+  height: 34px;
+}
+
+.custom-share-footer .share-cv-text {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+}
+
+.custom-share-footer .share-icons a:hover {
+  opacity: 0.85;
+}
+
+.custom-share-footer .share-icon-link[aria-label="GitHub"]:hover,
+.custom-share-footer .share-icon-link[aria-label="LinkedIn"]:hover {
+  transform: translateY(-2px);
+}
+
+.custom-share-footer .share-icon-link[aria-label="Email"]:hover,
+.custom-share-footer .share-icon-link[aria-label="CV"]:hover {
+  transform: translateY(4px);
+}
+
+.custom-share-footer .share-icon-link[aria-label="Email"],
+.custom-share-footer .share-icon-link[aria-label="CV"] {
+  transform: translateY(6px);
+}
+
+
+.home-intro-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 48px;
+  margin-top: 30px;
+}
+
+.home-intro-left {
+  flex: 1 1 65%;
+  min-width: 0;
+}
+
+.home-intro-right {
+  flex: 0 0 260px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.home-profile-photo {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 10px solid #f0f0f0;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.04);
+}
+
+.header-title img {
+  height: 36px;
+  width: auto;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.home-main-title {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: black;
+  margin: 30px 0 50px 0;
+  line-height: 1.2;
+}
+
+
+@media (max-width: 900px) {
+  .home-intro-row {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .home-intro-left {
+    width: 100%;
+  }
+
+  .home-intro-right {
+    flex: none;
+    margin-bottom: 20px;
+  }
+
+  .home-profile-photo {
+    width: 180px;
+    height: 180px;
+  }
+}

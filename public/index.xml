@@ -1,0 +1,948 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Qixuan Chen&#39;s Lab</title>
+        <link>http://localhost:1313/</link>
+        <description>Welcome to my lab&#39;s homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title></title>
+    <link>http://localhost:1313/project/epi_research/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/project/epi_research/</guid>
+    <description><![CDATA[<style>
+.banner-wrap{
+  position: relative;
+  width: 100%;
+  margin: 0 0 22px 0;
+  padding-bottom: 60px;  
+}
+
+.page-banner{
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.banner-title{
+  position: absolute;
+  right: 28px;
+  top: 328px;   
+  z-index: 9;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+
+
+.page-nav .nav-btn{
+  position: absolute;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  background: transparent;
+  color: #fff;
+  backdrop-filter: none;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.page-nav .nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+}
+
+
+.nav-back{
+  top: 338px;
+  left: 18px;
+}
+
+.bottom-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+  padding-top: 12px;
+}
+
+.bottom-nav-btn{
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1;
+  color: #2a7ea0;
+  background: transparent;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.bottom-nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.project-block{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 20px 0 28px;
+}
+
+.project-text{
+  flex: 1 1 auto;
+}
+
+.project-image{
+  flex: 0 0 320px;
+  max-width: 38%;
+}
+
+.project-image img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px){
+  .page-banner{
+    height: 220px;
+  }
+  
+  .bottom-nav{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .bottom-nav-btn{
+    text-align: center;
+  }
+  
+  .banner-wrap{
+    padding-bottom: 80px;
+  }
+
+  .page-nav .nav-btn{
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .project-block{
+    flex-direction: column;
+  }
+
+  .project-image{
+    max-width: 100%;
+  }
+}
+</style>
+<div class="banner-wrap">
+  <div class="page-banner" style="background-image:url('/images/research/epidemiological.jpg');"></div>
+  <div class="page-nav">
+    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+      ← Back
+    </a>
+  </div>
+</div>
+<div class="banner-title">Epidemiologic Research</div>
+<p>Alongside the developments of new statistical methods, I lead applied research
+in epidemiology and biomedical science, publishing as a first or senior author
+in epidemiologic and medical journals. My research integrates advanced statistical
+and machine learning methods across environmental health, COVID-19 studies,
+and radiology diagnostics to address key public health and clinical questions.</p>]]></description>
+</item><item>
+    <title></title>
+    <link>http://localhost:1313/project/health_app/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/project/health_app/</guid>
+    <description><![CDATA[<style>
+.banner-wrap{
+  position: relative;
+  width: 100%;
+  margin: 0 0 22px 0;
+  padding-bottom: 60px;  
+}
+
+.page-banner{
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.banner-title{
+  position: absolute;
+  right: 28px;
+  top: 328px;   
+  z-index: 9;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+
+
+.page-nav .nav-btn{
+  position: absolute;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  background: transparent;
+  color: #fff;
+  backdrop-filter: none;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.page-nav .nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+}
+
+
+.nav-back{
+  top: 338px;
+  left: 18px;
+}
+
+.bottom-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+  padding-top: 12px;
+}
+
+.bottom-nav-btn{
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1;
+  color: #2a7ea0;
+  background: transparent;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.bottom-nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.project-block{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 20px 0 28px;
+}
+
+.project-text{
+  flex: 1 1 auto;
+}
+
+.project-image{
+  flex: 0 0 320px;
+  max-width: 38%;
+}
+
+.project-image img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px){
+  .page-banner{
+    height: 220px;
+  }
+  
+  .bottom-nav{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .bottom-nav-btn{
+    text-align: center;
+  }
+  
+  .banner-wrap{
+    padding-bottom: 80px;
+  }
+
+  .page-nav .nav-btn{
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .project-block{
+    flex-direction: column;
+  }
+
+  .project-image{
+    max-width: 100%;
+  }
+}
+</style>
+<div class="banner-wrap">
+  <div class="page-banner" style="background-image:url('/images/research/generalizability.png');"></div>
+  <div class="page-nav">
+    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+      ← Back
+    </a>
+  </div>
+</div>
+<div class="banner-title">Health Survey Application</div>
+<p>I collaborated extensively with interdisciplinary researchers on the design and
+analysis of longitudinal and cross-sectional health surveys at local, national,
+and international levels.</p>]]></description>
+</item><item>
+    <title></title>
+    <link>http://localhost:1313/project/measurement_error/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/project/measurement_error/</guid>
+    <description><![CDATA[<style>
+.banner-wrap{
+  position: relative;
+  width: 100%;
+  margin: 0 0 22px 0;
+  padding-bottom: 60px;  
+}
+
+.page-banner{
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.banner-title{
+  position: absolute;
+  right: 28px;
+  top: 328px;   
+  z-index: 9;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+
+
+.page-nav .nav-btn{
+  position: absolute;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  background: transparent;
+  color: #fff;
+  backdrop-filter: none;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.page-nav .nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+}
+
+
+.nav-back{
+  top: 338px;
+  left: 18px;
+}
+
+.bottom-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+  padding-top: 12px;
+}
+
+.bottom-nav-btn{
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1;
+  color: #2a7ea0;
+  background: transparent;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.bottom-nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.project-block{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 20px 0 28px;
+}
+
+.project-text{
+  flex: 1 1 auto;
+}
+
+.project-image{
+  flex: 0 0 320px;
+  max-width: 38%;
+}
+
+.project-image img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px){
+  .page-banner{
+    height: 220px;
+  }
+  
+  .bottom-nav{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .bottom-nav-btn{
+    text-align: center;
+  }
+  
+  .banner-wrap{
+    padding-bottom: 80px;
+  }
+
+  .page-nav .nav-btn{
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .project-block{
+    flex-direction: column;
+  }
+
+  .project-image{
+    max-width: 100%;
+  }
+}
+</style>
+<div class="banner-wrap">
+  <div class="page-banner" style="background-image:url('/images/research/measurement.jpg');"></div>
+  <div class="page-nav">
+    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+      ← Back
+    </a>
+  </div>
+</div>
+<div class="banner-title">Measurement Error</div>
+<p>My research develops statistical and epidemiologic methods to address measurement
+error and misclassification in complex data settings.</p>]]></description>
+</item><item>
+    <title></title>
+    <link>http://localhost:1313/project/missing_data/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/project/missing_data/</guid>
+    <description><![CDATA[<style>
+.banner-wrap{
+  position: relative;
+  width: 100%;
+  margin: 0 0 22px 0;
+  padding-bottom: 60px;  
+}
+
+.page-banner{
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.banner-title{
+  position: absolute;
+  right: 28px;
+  top: 328px;   
+  z-index: 9;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+
+
+.page-nav .nav-btn{
+  position: absolute;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  background: transparent;
+  color: #fff;
+  backdrop-filter: none;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.page-nav .nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+}
+
+
+.nav-back{
+  top: 338px;
+  left: 18px;
+}
+
+.bottom-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+  padding-top: 12px;
+}
+
+.bottom-nav-btn{
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1;
+  color: #2a7ea0;
+  background: transparent;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.bottom-nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.project-block{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 20px 0 28px;
+}
+
+.project-text{
+  flex: 1 1 auto;
+}
+
+.project-image{
+  flex: 0 0 320px;
+  max-width: 38%;
+}
+
+.project-image img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px){
+  .page-banner{
+    height: 220px;
+  }
+  
+  .bottom-nav{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .bottom-nav-btn{
+    text-align: center;
+  }
+  
+  .banner-wrap{
+    padding-bottom: 80px;
+  }
+
+  .page-nav .nav-btn{
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .project-block{
+    flex-direction: column;
+  }
+
+  .project-image{
+    max-width: 100%;
+  }
+}
+</style>
+<div class="banner-wrap">
+  <div class="page-banner" style="background-image:url('/images/research/missing.png');"></div>
+  <div class="page-nav">
+    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+      ← Back
+    </a>
+  </div>
+</div>
+<div class="banner-title">Missing Data</div>
+<p>The analysis of medical and population health data is often complicated by
+missing and incomplete information. My work in this area is motivated by
+real-world challeneges in medical and public health research and focus on
+developing novel statistical methods and practical approaches to address these
+issues.</p>]]></description>
+</item><item>
+    <title></title>
+    <link>http://localhost:1313/project/survey_design/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/project/survey_design/</guid>
+    <description><![CDATA[<style>
+.banner-wrap{
+  position: relative;
+  width: 100%;
+  margin: 0 0 22px 0;
+  padding-bottom: 60px;  
+}
+
+.page-banner{
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.banner-title{
+  position: absolute;
+  right: 28px;
+  top: 328px;   
+  z-index: 9;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+
+
+.page-nav .nav-btn{
+  position: absolute;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  background: transparent;
+  color: #fff;
+  backdrop-filter: none;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.page-nav .nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+}
+
+
+.nav-back{
+  top: 338px;
+  left: 18px;
+}
+
+.bottom-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+  padding-top: 12px;
+}
+
+.bottom-nav-btn{
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1;
+  color: #2a7ea0;
+  background: transparent;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.bottom-nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.project-block{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 20px 0 28px;
+}
+
+.project-text{
+  flex: 1 1 auto;
+}
+
+.project-image{
+  flex: 0 0 320px;
+  max-width: 38%;
+}
+
+.project-image img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px){
+  .page-banner{
+    height: 220px;
+  }
+  
+  .bottom-nav{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .bottom-nav-btn{
+    text-align: center;
+  }
+  
+  .banner-wrap{
+    padding-bottom: 80px;
+  }
+
+  .page-nav .nav-btn{
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .project-block{
+    flex-direction: column;
+  }
+
+  .project-image{
+    max-width: 100%;
+  }
+}
+</style>
+<div class="banner-wrap">
+  <div class="page-banner" style="background-image:url('/images/research/fall.png');"></div>
+  <div class="page-nav">
+    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+      ← Back
+    </a>
+  </div>
+</div>
+<div class="banner-title">Survey Design</div>
+<p>I collaborated extensively with interdisciplinary researchers on the design
+and analysis of longitudinal and cross-sectional health surveys at local, national,
+and international levels.</p>]]></description>
+</item><item>
+    <title></title>
+    <link>http://localhost:1313/project/survey_inference/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/project/survey_inference/</guid>
+    <description><![CDATA[<style>
+.banner-wrap{
+  position: relative;
+  width: 100%;
+  margin: 0 0 22px 0;
+  padding-bottom: 60px;  
+}
+
+.page-banner{
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.banner-title{
+  position: absolute;
+  right: 28px;
+  top: 328px;   
+  z-index: 9;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+
+
+.page-nav .nav-btn{
+  position: absolute;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  background: transparent;
+  color: #fff;
+  backdrop-filter: none;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.page-nav .nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+}
+
+
+.nav-back{
+  top: 338px;
+  left: 18px;
+}
+
+.bottom-nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 40px;
+  padding-top: 12px;
+}
+
+.bottom-nav-btn{
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1;
+  color: #2a7ea0;
+  background: transparent;
+  border: none;
+  transition: transform .2s ease, opacity .2s ease;
+}
+
+.bottom-nav-btn:hover{
+  transform: translateY(-2px);
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.project-block{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 20px 0 28px;
+}
+
+.project-text{
+  flex: 1 1 auto;
+}
+
+.project-image{
+  flex: 0 0 320px;
+  max-width: 38%;
+}
+
+.project-image img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 900px){
+  .page-banner{
+    height: 220px;
+  }
+  
+  .bottom-nav{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .bottom-nav-btn{
+    text-align: center;
+  }
+  
+  .banner-wrap{
+    padding-bottom: 80px;
+  }
+
+  .page-nav .nav-btn{
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .project-block{
+    flex-direction: column;
+  }
+
+  .project-image{
+    max-width: 100%;
+  }
+}
+</style>
+<div class="banner-wrap">
+  <div class="page-banner" style="background-image:url('/images/research/survey.png');"></div>
+  <div class="page-nav">
+    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+      ← Back
+    </a>
+  </div>
+</div>
+<div class="banner-title">Bayesian Survey Inference</div>
+<p>My research develops Bayesian methods for population-level inference from both
+probability and nonprobability data, integrating flexible modeling with external
+data sources to address complex survey features and enhance generalizability.</p>]]></description>
+</item></channel>
+</rss>
