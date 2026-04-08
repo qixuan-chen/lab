@@ -840,4 +840,4 @@ series = "series"
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir/static/images'
