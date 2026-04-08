@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://kindlezhang.github.io/chenlab/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -840,4 +840,4 @@ series = "series"
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/static/images'
+    dir = ':cacheDir/images'
