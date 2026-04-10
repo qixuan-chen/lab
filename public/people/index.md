@@ -85,7 +85,8 @@
 
 ### Master
 
-- **Boran Zhai** (2025-present)
+- **Jeff Cao** (2026-present)
+- **Boran Zhai** (2026-present)
 - **Mengxiao Luan** (2024–2025), “Harmonizing two Likert variables with identical questions but different response scales”, now PhD student at <a href="#" target="_blank" rel="noopener">Dalian University of Technology</a>
 - **Baoyi Feng** (2023–2024), “Impact of collaborative care models on depression screening and treatment in primary care settings across New York State,” now Data Analyst at <a href="#" target="_blank" rel="noopener">Eli Lilly & Company</a>  
 - **Hongru Tang** (2023–2024), “Inference in linear regression with informative sampling: a comparison of methods,” now PhD student at <a href="#" target="_blank" rel="noopener">University of Florida</a>
