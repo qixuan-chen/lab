@@ -198,7 +198,7 @@ A full cv file can be found [here](/files/2026_01_CV_CHEN.pdf).
     <div class="box">
       <h3>Missing Data</h3>
       <div class="hover-content">
-        <a class="btn" href="/project/missing_data/">Read More</a>
+        <a class="btn" href="../project/missing_data/">Read More</a>
       </div>
     </div>
   </div>

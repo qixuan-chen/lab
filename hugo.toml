@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://example.org"
+# relativeURLs = true
+# canonifyURLs = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -106,7 +108,7 @@ theme = "DoIt"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "images/mailman_biostats_4c_horiz.png"
+      logo = "/images/mailman_biostats_4c_horiz.png"
       # title name
       name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
