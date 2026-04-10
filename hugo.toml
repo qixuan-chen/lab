@@ -1,6 +1,5 @@
 baseURL = "https://example.org/chenlab/"
-relativeURLs = true
-canonifyURLs = true
+
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code

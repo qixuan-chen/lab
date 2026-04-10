@@ -2,23 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/chenlab/people/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/press/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/epi_research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/health_app/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/measurement_error/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/missing_data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/survey_design/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/survey_inference/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/publication/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/first_post/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/chenlab/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://example.org/chenlab/people/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/press/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/epi_research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/health_app/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/measurement_error/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/missing_data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/survey_design/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/survey_inference/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/publication/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/chenlab/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

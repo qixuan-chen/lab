@@ -1,24 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Qixuan Chen&#39;s Lab</title>
-        <link>http://localhost:1313/chenlab/posts/</link>
+        <link>https://example.org/chenlab/posts/</link>
         <description>All Posts | Qixuan Chen&#39;s Lab</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/chenlab/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Brief Introduction</title>
-    <link>http://localhost:1313/chenlab/first_post/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>xxxx</name>
-    </author><guid>http://localhost:1313/chenlab/first_post/</guid>
-    <description><![CDATA[<h2 id="info" class="headerLink">
-    <a href="#info" class="header-mark"></a>Info</h2><p>Assistant Professor</p>
-<p>Department of Biostatistics</p>
-<p>Mailman School of Public Health</p>
-<p>Columbia University</p>
-<p>722 West 168th Street, 6th Floor</p>
-<p>New York, NY 10032</p>
-<p>Email: <a href="mailto:qc2138@cumc.columbia.edu" rel="">qc2138@cumc.columbia.edu</a></p>
-<p>Phone: 212-342-1245</p>
-<h2 id="research-interest" class="headerLink">
-    <a href="#research-interest" class="header-mark"></a>Research Interest</h2><p>Survey sampling; Missing data; Bayesian statistics; latent class analysis; population health; environmental health sciences.</p>]]></description>
-</item></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://example.org/chenlab/posts/" rel="self" type="application/rss+xml" /></channel>
 </rss>
