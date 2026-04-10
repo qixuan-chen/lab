@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Projects -  - Qixuan Chen&#39;s Lab</title>
-        <link>https://example.org/project/</link>
+        <link>http://localhost:1313/chenlab/project/</link>
         <description>Projects -  - Qixuan Chen&#39;s Lab</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://example.org/project/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/chenlab/project/" rel="self" type="application/rss+xml" /><item>
     <title></title>
-    <link>https://example.org/project/epi_research/</link>
+    <link>http://localhost:1313/chenlab/project/epi_research/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>xxxx</name>
-    </author><guid>https://example.org/project/epi_research/</guid>
+    </author><guid>http://localhost:1313/chenlab/project/epi_research/</guid>
     <description><![CDATA[<style>
 .banner-wrap{
   position: relative;
@@ -163,10 +163,10 @@ and machine learning methods across environmental health, COVID-19 studies,
 and radiology diagnostics to address key public health and clinical questions.</p>]]></description>
 </item><item>
     <title></title>
-    <link>https://example.org/project/health_app/</link>
+    <link>http://localhost:1313/chenlab/project/health_app/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>xxxx</name>
-    </author><guid>https://example.org/project/health_app/</guid>
+    </author><guid>http://localhost:1313/chenlab/project/health_app/</guid>
     <description><![CDATA[<style>
 .banner-wrap{
   position: relative;
@@ -319,10 +319,10 @@ analysis of longitudinal and cross-sectional health surveys at local, national,
 and international levels.</p>]]></description>
 </item><item>
     <title></title>
-    <link>https://example.org/project/measurement_error/</link>
+    <link>http://localhost:1313/chenlab/project/measurement_error/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>xxxx</name>
-    </author><guid>https://example.org/project/measurement_error/</guid>
+    </author><guid>http://localhost:1313/chenlab/project/measurement_error/</guid>
     <description><![CDATA[<style>
 .banner-wrap{
   position: relative;
@@ -474,10 +474,10 @@ and international levels.</p>]]></description>
 error and misclassification in complex data settings.</p>]]></description>
 </item><item>
     <title></title>
-    <link>https://example.org/project/missing_data/</link>
+    <link>http://localhost:1313/chenlab/project/missing_data/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>xxxx</name>
-    </author><guid>https://example.org/project/missing_data/</guid>
+    </author><guid>http://localhost:1313/chenlab/project/missing_data/</guid>
     <description><![CDATA[<style>
 .banner-wrap{
   position: relative;
@@ -632,10 +632,10 @@ developing novel statistical methods and practical approaches to address these
 issues.</p>]]></description>
 </item><item>
     <title></title>
-    <link>https://example.org/project/survey_design/</link>
+    <link>http://localhost:1313/chenlab/project/survey_design/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>xxxx</name>
-    </author><guid>https://example.org/project/survey_design/</guid>
+    </author><guid>http://localhost:1313/chenlab/project/survey_design/</guid>
     <description><![CDATA[<style>
 .banner-wrap{
   position: relative;
@@ -788,10 +788,10 @@ and analysis of longitudinal and cross-sectional health surveys at local, nation
 and international levels.</p>]]></description>
 </item><item>
     <title></title>
-    <link>https://example.org/project/survey_inference/</link>
+    <link>http://localhost:1313/chenlab/project/survey_inference/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>xxxx</name>
-    </author><guid>https://example.org/project/survey_inference/</guid>
+    </author><guid>http://localhost:1313/chenlab/project/survey_inference/</guid>
     <description><![CDATA[<style>
 .banner-wrap{
   position: relative;
