@@ -1,4 +1,4 @@
-baseURL = "https://example.org/chenlab/"
+baseURL = "https://example.org/lab/"
 
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
@@ -107,7 +107,7 @@ theme = "DoIt"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/images/mailman_biostats_4c_horiz.png"
+      logo = "/lab/images/mailman_biostats_4c_horiz.png"
       # title name
       name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -220,7 +220,7 @@ theme = "DoIt"
 
       # [[params.home.profile.buttons]]
       # name = "Download CV"
-      # url = "/files/2026_01_CV_CHEN.pdf"
+      # url = "/lab/files/2026_01_CV_CHEN.pdf"
 
     # Home page posts
     [params.home.posts]

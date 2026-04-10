@@ -141,10 +141,10 @@
 </style>
 
 <div class="banner-wrap">
-  <div class="page-banner" style="background-image:url('/images/research/missing.png');"></div>
+  <div class="page-banner" style="background-image:url('/lab/images/research/missing.png');"></div>
 
   <div class="page-nav">
-    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+    <a class="nav-btn nav-back" href="/lab/research/" aria-label="Back to Research">
       ← Back
     </a>
   </div>
@@ -206,10 +206,10 @@ incomplete and censored data in epidemiologic studies.
 <div style="height: 40px;"></div>
 
 <div class="bottom-nav">
-  <a class="bottom-nav-btn" href="/project/measurement_error/" aria-label="Previous">
+  <a class="bottom-nav-btn" href="/lab/project/measurement_error/" aria-label="Previous">
     ← Previous
   </a>
-  <a class="bottom-nav-btn" href="/project/epi_research/" aria-label="Next">
+  <a class="bottom-nav-btn" href="/lab/project/epi_research/" aria-label="Next">
     Next →
   </a>
 </div>

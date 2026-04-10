@@ -2,22 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.org/chenlab/people/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/press/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/epi_research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/health_app/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/measurement_error/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/missing_data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/survey_design/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/survey_inference/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/publication/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.org/chenlab/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://example.org/lab/people/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/press/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/epi_research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/health_app/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/measurement_error/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/missing_data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/survey_design/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/survey_inference/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/publication/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.org/lab/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

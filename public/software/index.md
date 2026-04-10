@@ -114,7 +114,7 @@
           <p><a href="https://msph.shinyapps.io/nyc-neighborhoods-covid/" target="_blank" rel="noopener">Read more</a></p>
         </div>
         <div class="project-media">
-          <img src="/images/press/ncd-1500x632.jpg" alt="COVID Dashboard" />
+          <img src="/lab/images/press/ncd-1500x632.jpg" alt="COVID Dashboard" />
         </div>
       </div>
       <div class="project-row">
@@ -124,7 +124,7 @@
           <p><a href="https://msph.shinyapps.io/DiagnosticApp/" target="_blank" rel="noopener">Read more</a></p>
         </div>
         <div class="project-media">
-          <img src="/images/press/prime_logo.png" alt="Lung disease Dashboard" />
+          <img src="/lab/images/press/prime_logo.png" alt="Lung disease Dashboard" />
         </div>
       </div>
       <div class="project-row">
@@ -134,7 +134,7 @@
           <p><a href=" https://kindle0118.shinyapps.io/weighting/" target="_blank" rel="noopener">Read more</a></p>
         </div>
         <div class="project-media">
-          <img src="/images/press/background.png" alt="Lung disease Dashboard" />
+          <img src="/lab/images/press/background.png" alt="Lung disease Dashboard" />
         </div>
       </div>
     </div>

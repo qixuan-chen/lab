@@ -38,6 +38,6 @@ Survey sampling; Missing data; Measurement error; Data integration; Bayesian mod
   </div>
 
   <div class="home-intro-right">
-    <img src="/images/Chen_Qixuanwp.png" alt="Qixuan Chen" class="home-profile-photo">
+    <img src="/lab/images/Chen_Qixuanwp.png" alt="Qixuan Chen" class="home-profile-photo">
   </div>
 </div>

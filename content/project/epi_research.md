@@ -143,10 +143,10 @@ draft: false
 </style>
 
 <div class="banner-wrap">
-  <div class="page-banner" style="background-image:url('/images/research/epidemiological.jpg');"></div>
+  <div class="page-banner" style="background-image:url('/lab/images/research/epidemiological.jpg');"></div>
 
   <div class="page-nav">
-    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+    <a class="nav-btn nav-back" href="/lab/research/" aria-label="Back to Research">
       ← Back
     </a>
   </div>
@@ -237,10 +237,10 @@ model for pulmonary fibrosis and implemented it as a Shiny app.
 <div style="height: 40px;"></div>
 
 <div class="bottom-nav">
-  <a class="bottom-nav-btn" href="/project/missing_data/" aria-label="Previous">
+  <a class="bottom-nav-btn" href="/lab/project/missing_data/" aria-label="Previous">
     ← Previous
   </a>
-  <a class="bottom-nav-btn" href="/research/" aria-label="Next">
+  <a class="bottom-nav-btn" href="/lab/research/" aria-label="Next">
     Next →
   </a>
 </div>

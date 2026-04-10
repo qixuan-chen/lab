@@ -9,28 +9,28 @@ draft: false
   <tr>
     <td align="center" width="25%">
       <a href="#" target="_blank" rel="noopener">
-        <img src="/images/people/jiangziyu.jpg" width="140"><br>
+        <img src="/lab/images/people/jiangziyu.jpg" width="140"><br>
         <b>Jiang Ziyu</b>
       </a><br>
       Postdoc Researcher
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/zjg540066169" target="_blank" rel="noopener">
-        <img src="/images/people/zoujungang.jpg" width="140"><br>
+        <img src="/lab/images/people/zoujungang.jpg" width="140"><br>
         <b>Zou Jungang</b>
       </a><br>
       PhD Student
     </td>
     <td align="center" width="25%">
       <a href="#" target="_blank" rel="noopener">
-        <img src="/images/people/zhangshubo.jpeg" width="140"><br>
+        <img src="/lab/images/people/zhangshubo.jpeg" width="140"><br>
         <b>Zhang Shubo</b>
       </a><br>
       PhD Student
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/yiheng-wei-376430290/" target="_blank" rel="noopener">
-        <img src="/images/people/weiyiheng.jpg" width="140"><br>
+        <img src="/lab/images/people/weiyiheng.jpg" width="140"><br>
         <b>Wei Yiheng</b>
       </a><br>
       PhD Student
@@ -42,28 +42,28 @@ draft: false
   <tr>
     <td align="center" width="25%">
       <a href="https://vishu.ai/" target="_blank" rel="noopener">
-        <img src="/images/people/vishutyagi.jpeg" width="140"><br>
+        <img src="/lab/images/people/vishutyagi.jpeg" width="140"><br>
         <b>Vishu Tyagi</b>
       </a><br>
       Data Scientist
     </td>
     <td align="center" width="25%">
       <a href="https://kindlezhang.github.io/" target="_blank" rel="noopener">
-        <img src="/images/people/qiduozhang.png" width="140"><br>
+        <img src="/lab/images/people/qiduozhang.png" width="140"><br>
         <b>Qiduo Zhang</b>
       </a><br>
       Research Assistant
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/ZHAI407" target="_blank" rel="noopener">
-        <img src="/images/people/BoranZhai.png" width="140"><br>
+        <img src="/lab/images/people/BoranZhai.png" width="140"><br>
         <b>Boran Zhai</b>
       </a><br>
       Master Student
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/JingfengCao" target="_blank" rel="noopener">
-        <img src="/images/people/Headshot_Jeff.jpeg" width="140"><br>
+        <img src="/lab/images/people/Headshot_Jeff.jpeg" width="140"><br>
         <b>Jeff Cao</b>
       </a><br>
       Master Student

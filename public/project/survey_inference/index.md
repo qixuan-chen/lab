@@ -141,10 +141,10 @@
 </style>
 
 <div class="banner-wrap">
-  <div class="page-banner" style="background-image:url('/images/research/survey.png');"></div>
+  <div class="page-banner" style="background-image:url('/lab/images/research/survey.png');"></div>
 
   <div class="page-nav">
-    <a class="nav-btn nav-back" href="/research/" aria-label="Back to Research">
+    <a class="nav-btn nav-back" href="/lab/research/" aria-label="Back to Research">
       ← Back
     </a>
   </div>
@@ -244,10 +244,10 @@ reliable inference for population-level analyses.
 <div style="height: 40px;"></div>
 
 <div class="bottom-nav">
-  <a class="bottom-nav-btn" href="/research/" aria-label="Previous">
+  <a class="bottom-nav-btn" href="/lab/research/" aria-label="Previous">
     ← Previous
   </a>
-  <a class="bottom-nav-btn" href="/project/health_app/" aria-label="Next">
+  <a class="bottom-nav-btn" href="/lab/project/health_app/" aria-label="Next">
     Next →
   </a>
 </div>

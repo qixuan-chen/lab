@@ -76,7 +76,7 @@
   </div>
 
   <div class="press-media">
-    <img src="/images/press/cropped-ANwebsite-1.jpg" alt="AmStat News Feature" class="press-img-fixed" />
+    <img src="/lab/images/press/cropped-ANwebsite-1.jpg" alt="AmStat News Feature" class="press-img-fixed" />
   </div>
 </div>
 
@@ -94,7 +94,7 @@
   </div>
 
   <div class="press-media">
-    <img src="/images/press/bottledwaternanoplastics-3-01082024-21x9_0.jpg" alt="Nanoplastics Study" class="press-img-fixed" />
+    <img src="/lab/images/press/bottledwaternanoplastics-3-01082024-21x9_0.jpg" alt="Nanoplastics Study" class="press-img-fixed" />
   </div>
 </div>
 
@@ -110,7 +110,7 @@
   </div>
 
   <div class="press-media">
-    <img src="/images/press/nanoplastic-image.jpg" alt="Climate School Article" class="press-img-fixed" />
+    <img src="/lab/images/press/nanoplastic-image.jpg" alt="Climate School Article" class="press-img-fixed" />
   </div>
 </div>
 
@@ -128,7 +128,7 @@
   </div>
 
   <div class="press-media">
-    <img src="/images/press/ncd-1500x632.jpg" alt="COVID Dashboard" class="press-img-fixed" />
+    <img src="/lab/images/press/ncd-1500x632.jpg" alt="COVID Dashboard" class="press-img-fixed" />
   </div>
 </div>
 

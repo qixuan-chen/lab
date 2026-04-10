@@ -7,7 +7,7 @@ draft: false
 
 Visit Qixuan Chen's [Google Scholar profile](http://scholar.google.com/citations?user=gHLwOp4AAAAJ&hl=en&oi=ao).
 
-A full cv file can be found [here](/files/2026_01_CV_CHEN.pdf).
+A full cv file can be found [here](/lab/files/2026_01_CV_CHEN.pdf).
 
 <style>
 
@@ -165,63 +165,63 @@ A full cv file can be found [here](/files/2026_01_CV_CHEN.pdf).
 <div class="overlay-grid">
 
   <div class="overlay-card card-survey">
-    <div class="bg" style="background-image:url('/images/research/survey.png');"></div>
+    <div class="bg" style="background-image:url('/lab/images/research/survey.png');"></div>
     <div class="box">
       <h3>Bayesian Survey Inference</h3>
       <div class="hover-content">
-        <a class="btn" href="/project/survey_inference/">Read More</a>
+        <a class="btn" href="/lab/project/survey_inference/">Read More</a>
       </div>
     </div>
   </div>
 
 
   <div class="overlay-card card-survey">
-    <div class="bg" style="background-image:url('/images/research/generalizability.png');"></div>
+    <div class="bg" style="background-image:url('/lab/images/research/generalizability.png');"></div>
     <div class="box">
       <h3>Health Survey Application</h3>
       <div class="hover-content">
-        <a class="btn" href="/project/health_app/">Read More</a>
+        <a class="btn" href="/lab/project/health_app/">Read More</a>
       </div>
     </div>
   </div>
 
   <div class="overlay-card card-survey">
-    <div class="bg" style="background-image:url('/images/research/measurement.jpg');"></div>
+    <div class="bg" style="background-image:url('/lab/images/research/measurement.jpg');"></div>
     <div class="box">
       <h3>Measurement Error</h3>
       <div class="hover-content">
-        <a class="btn" href="/project/measurement_error/">Read More</a>
+        <a class="btn" href="/lab/project/measurement_error/">Read More</a>
       </div>
     </div>
   </div>
 
   <div class="overlay-card card-survey">
-    <div class="bg" style="background-image:url('/images/research/missing.png');"></div>
+    <div class="bg" style="background-image:url('/lab/images/research/missing.png');"></div>
     <div class="box">
       <h3>Missing Data</h3>
       <div class="hover-content">
-        <a class="btn" href="../project/missing_data/">Read More</a>
+        <a class="btn" href="/lab/project/missing_data/">Read More</a>
       </div>
     </div>
   </div>
 
   <div class="overlay-card card-survey">
-    <div class="bg" style="background-image:url('/images/research/epidemiological.jpg');"></div>
+    <div class="bg" style="background-image:url('/lab/images/research/epidemiological.jpg');"></div>
     <div class="box">
       <h3>Epidemiological Research</h3>
       <div class="hover-content">
-        <a class="btn" href="/project/epi_research/">Read More</a>
+        <a class="btn" href="/lab/project/epi_research/">Read More</a>
       </div>
     </div>
   </div>
   
   <!--
   <div class="overlay-card card-survey">
-    <div class="bg" style="background-image:url('/images/research/fall.png');"></div>
+    <div class="bg" style="background-image:url('/lab/images/research/fall.png');"></div>
     <div class="box">
       <h3>Survey Design</h3>
       <div class="hover-content">
-        <a class="btn" href="/project/survey_design/">Read More</a>
+        <a class="btn" href="/lab/project/survey_design/">Read More</a>
       </div>
     </div>
   </div>
