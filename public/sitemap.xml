@@ -2,22 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://kindlezhang.github.io/chenlab/people/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/press/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/epi_research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/health_app/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/measurement_error/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/missing_data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/survey_design/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/survey_inference/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/publication/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kindlezhang.github.io/chenlab/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://example.org/people/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/press/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/epi_research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/health_app/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/measurement_error/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/missing_data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/survey_design/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/survey_inference/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/publication/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/research/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/software/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

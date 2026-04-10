@@ -17,7 +17,6 @@
   align-items: flex-start;
 }
 
-/* 左边文字占剩余空间 */
 .press-text{
   flex: 1 1 auto;
   min-width: 0;

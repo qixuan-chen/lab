@@ -114,7 +114,7 @@
           <p><a href="https://msph.shinyapps.io/nyc-neighborhoods-covid/" target="_blank" rel="noopener">Read more</a></p>
         </div>
         <div class="project-media">
-          <img src="/chenlab/images/press/ncd-1500x632.jpg" alt="COVID Dashboard" />
+          <img src="/images/press/ncd-1500x632.jpg" alt="COVID Dashboard" />
         </div>
       </div>
       <div class="project-row">
