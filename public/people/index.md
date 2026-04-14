@@ -3,26 +3,28 @@
 
 ## Current Members
 
+<span style="font-size: 0.9em; color: #666;">Click for more information</span>
+
 <table>
   <tr>
     <td align="center" width="25%">
       <a href="#" target="_blank" rel="noopener">
         <img src="/lab/images/people/jiangziyu.jpg" width="140"><br>
-        <b>Jiang Ziyu</b>
+        <b>Ziyu Jiang</b>
       </a><br>
       Postdoc Researcher
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/zjg540066169" target="_blank" rel="noopener">
         <img src="/lab/images/people/zoujungang.jpg" width="140"><br>
-        <b>Zou Jungang</b>
+        <b>Jungang Zou</b>
       </a><br>
       PhD Student
     </td>
     <td align="center" width="25%">
       <a href="#" target="_blank" rel="noopener">
         <img src="/lab/images/people/zhangshubo.jpeg" width="140"><br>
-        <b>Zhang Shubo</b>
+        <b>Shubo Zhang</b>
       </a><br>
       PhD Student
     </td>
@@ -74,8 +76,8 @@
 
 ### Doctor
 
-- **Shubo Zhang** (2025–present), co-advised with Yuanjia Wang  
-- **Jungang Zou** (2023–present)  
+<!-- - **Shubo Zhang** (2025–present), co-advised with Yuanjia Wang -->
+<!-- - **Jungang Zou** (2023–present)  -->
 - **Amy Pitts** (2022–2025), co-advised with Caleb Miles, now Principal Biostatistician at <a href="#" target="_blank" rel="noopener">Regeneron</a>  
 - **Muhire Kwizera** (2019–2023), now Senior Scientist at <a href="#" target="_blank" rel="noopener">Merck</a>  
 - **Siquan Wang** (2020–2023), co-advised with Andrew Gelman, now Scientist at <a href="#" target="_blank" rel="noopener">Uber</a>  
@@ -85,15 +87,15 @@
 
 ### Master
 
-- **Jeff Cao** (2026-present)
-- **Boran Zhai** (2026-present)
+<!-- - **Jeff Cao** (2026-present) -->
+<!-- - **Boran Zhai** (2026-present) -->
 - **Mengxiao Luan** (2024–2025), “Harmonizing two Likert variables with identical questions but different response scales”, now PhD student at <a href="#" target="_blank" rel="noopener">Dalian University of Technology</a>
 - **Baoyi Feng** (2023–2024), “Impact of collaborative care models on depression screening and treatment in primary care settings across New York State,” now Data Analyst at <a href="#" target="_blank" rel="noopener">Eli Lilly & Company</a>  
 - **Hongru Tang** (2023–2024), “Inference in linear regression with informative sampling: a comparison of methods,” now PhD student at <a href="#" target="_blank" rel="noopener">University of Florida</a>
 - **Charles Chen** (2023–2024), “Evaluating the performance of a Bayesian approach for the analysis of serial dilution immunoassays,” Winner of 2024 Chair’s Award for Practicum Report; now PhD student at <a href="#" target="_blank" rel="noopener">University of Florida</a>
 - **Hun Lee** (2022–2023), “Using data fusion and multiple imputation to correct for misclassification in self-reported exposure: a case-control study of cannabis use and homicide victimization,” now PhD student at <a href="#" target="_blank" rel="noopener">Columbia University</a>
 - **Qingdou (Paulina) Han** (2022–2023, with Christopher Morrison), “Racial and economic disparities in child-injured crashes in California cities,” now Research Associate at <a href="#" target="_blank" rel="noopener">Michael Allen Company</a>
-- **Anyu Zhu** (2022–2023), “Improving statistical inference on a sub-cohort cell phone survey using Bayesian machine learning and survey data from the parent cohort,” now Healthcare Analyst at <a href="#" target="_blank" rel="noopener">Analysis Group</a>
+- **Anyu Zhu** (2022–2023), “Improving statistical inference on a sub-cohort cell phone survey using Bayesian machine learning and survey data from the parent cohort,” now PhD student at <a href="#" target="_blank" rel="noopener">Boston University</a>
 - **Zhixing Wu** (2022), “Neighborhood trajectories and risk factors of COVID outcomes in NYC from 2020 to 2022,” now PhD student at <a href="#" target="_blank" rel="noopener">University of Liverpool</a>
 - **Jungang Zou** (2021–2022), “Variable selection for multiply-imputed data: a Bayesian framework,” now PhD student at <a href="#" target="_blank" rel="noopener">Columbia University</a>
 - **Wuraola Olawole** (2021–2022), “Demographic risk factors of COVID outcomes in New York City neighborhoods in the third and fourth waves of the COVID outbreak,” now Research Data Analyst at <a href="#" target="_blank" rel="noopener">Johns Hopkins University</a>

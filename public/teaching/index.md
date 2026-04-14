@@ -3,15 +3,15 @@
 
 ## Regular Courses
 
-- P8123: Analysis of Health Surveys. Graduate course at the **Columbia University**.
+- P8123: Analysis of Health Surveys.
 
   [course syllabus](/lab/syllabus/P8123_syllabus.pdf)
   
-- P8110: Applied Regression II. Graduate course at the **Columbia University**.
+- P8110: Applied Regression II. 
   
   [course syllabus](/lab/syllabus/P8110_syllabus.pdf)
   
-- P9165: Master’s Essay in Biostatistics: Patient Oriented Research. Graduate course at the **Columbia University**.
+- P9165: Master’s Essay in Biostatistics: Patient Oriented Research.
 
   [course syllabus](/lab/syllabus/P9165_Fall2025_syllabus.pdf)
 
