@@ -4,7 +4,7 @@
 
 First, make sure you have Hugo and Git installed. If not, please refer to this website. https://gohugo.io/getting-started/quick-start/
 
-
+Here are also some tutorials to help you understand and use git. https://wanggroup.org/orientation/5m-git
 
 If this is your first time using this device, or if you do not have a local repository yet, there are several ways to connect to a GitHub repository remotely.
 
